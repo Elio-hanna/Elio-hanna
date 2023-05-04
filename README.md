@@ -24,6 +24,7 @@ I worked on researching and developing Backend Machine Learning solutions for th
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ## 🔭 What I'm currently working on
 Currently, I am working on developing a backend API for a computer vision application. This involves designing and implementing a scalable architecture that can handle a large volume of image data. The primary goal is to build a high-performance API that can process and analyze images in real-time, while maintaining data accuracy and security. To achieve this, I am leveraging various machine learning algorithms and computer vision techniques to develop advanced image processing pipelines that can handle various image formats and sizes. Overall, I am excited about the challenge of building a reliable and scalable backend API that can help deliver cutting-edge computer vision applications to users.
